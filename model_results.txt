@@ -1,0 +1,11 @@
+Decision Tree Classifier Results:
+Accuracy: 0.21
+Precision: 0.26
+Recall: 0.94
+F1 Score: 0.41
+
+Custom Rule-Based Classifier Results:
+Accuracy: 0.48
+Precision: 0.33
+Recall: 0.25
+F1 Score: 0.29
